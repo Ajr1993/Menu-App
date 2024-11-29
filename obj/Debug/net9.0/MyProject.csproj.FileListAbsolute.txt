@@ -1,0 +1,14 @@
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\bin\Debug\net9.0\MyProject.exe
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\bin\Debug\net9.0\MyProject.deps.json
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\bin\Debug\net9.0\MyProject.dll
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\bin\Debug\net9.0\MyProject.pdb
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.dll
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.pdb
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+C:\Users\Admin\IdeaProjects\C# project1\MyProject\obj\Debug\net9.0\ref\MyProject.dll
